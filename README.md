@@ -138,9 +138,3 @@ The playbook will:
 
 ---
 
-## 🧠 Credits
-
-Developed by Ardine 🚀  
-Backend: Django • DB: PostgreSQL • CI/CD: Ansible + Docker
-
----
